@@ -1,0 +1,690 @@
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <frame at 0x0000025DCA6C0B80, file 'E:\\Tealium\\testCases\\test_001_AccountRegister.py', line 13, code TestAccountRegistration>
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <class 'frame'>
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: E:\Tealium\testCases\test_001_AccountRegister.py
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <class 'str'>
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: 13
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <class 'int'>
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: TestAccountRegistration
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <class 'str'>
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: ['    logger = LogGen.loggen()\n']
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <class 'list'>
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: 0
+05/12/2024 12:49:12 PM: INFO: TestAccountRegistration: <class 'int'>
+05/12/2024 12:49:13 PM: INFO: TestAccountRegistration: Starting account registration
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <frame at 0x000001B20D340C20, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 12, code TestAccountLogin>
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: 12
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: 0
+05/26/2024 05:46:43 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 05:47:36 PM: INFO: TestAccountLogin: Starting account registration
+05/26/2024 05:51:47 PM: INFO: TestAccountLogin: <frame at 0x000002889F500FE0, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 12, code TestAccountLogin>
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: 12
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: 0
+05/26/2024 05:51:48 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 05:52:22 PM: INFO: TestAccountLogin: Starting account registration
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <frame at 0x000001DD93A409A0, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 12, code TestAccountLogin>
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: 12
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: 0
+05/26/2024 05:54:28 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 05:54:30 PM: INFO: TestAccountLogin: Starting account login
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <frame at 0x0000021CAF680900, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 12, code TestAccountLogin>
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: 12
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: 0
+05/26/2024 06:05:51 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 06:06:06 PM: INFO: TestAccountLogin: Starting account login
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <frame at 0x000001A95C2E0900, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: 14
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: 0
+05/26/2024 06:12:27 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 06:12:50 PM: INFO: TestAccountLogin: Starting account login
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <frame at 0x000001CA9F170900, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: 14
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: 0
+05/26/2024 08:07:05 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 08:08:10 PM: INFO: TestAccountLogin: Starting account login
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <frame at 0x0000025D4DE10900, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: 14
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: 0
+05/26/2024 08:10:11 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 08:10:25 PM: INFO: TestAccountLogin: Starting account login
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <frame at 0x000002034EFE4F40, file 'E:\\Tealium\\testCases\\test_001_AccountRegister.py', line 13, code TestAccountRegistration>
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <class 'frame'>
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: E:\Tealium\testCases\test_001_AccountRegister.py
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <class 'str'>
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: 13
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <class 'int'>
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: TestAccountRegistration
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <class 'str'>
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: ['    logger = LogGen.loggen()\n']
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <class 'list'>
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: 0
+05/26/2024 09:06:12 PM: INFO: TestAccountRegistration: <class 'int'>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <frame at 0x000002034EFE7380, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: 14
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: 0
+05/26/2024 09:06:12 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 09:06:21 PM: INFO: TestAccountRegistration: Starting account registration
+05/26/2024 09:06:48 PM: INFO: TestAccountLogin: Starting account login
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <frame at 0x0000020826620680, file 'E:\\Tealium\\testCases\\test_001_AccountRegister.py', line 13, code TestAccountRegistration>
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <class 'frame'>
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: E:\Tealium\testCases\test_001_AccountRegister.py
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <class 'str'>
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: 13
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <class 'int'>
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: TestAccountRegistration
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <class 'str'>
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: ['    logger = LogGen.loggen()\n']
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <class 'list'>
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: 0
+05/26/2024 09:31:47 PM: INFO: TestAccountRegistration: <class 'int'>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <frame at 0x0000020826582DE0, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <class 'frame'>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: 14
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: TestAccountLogin
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <class 'str'>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <class 'list'>
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: 0
+05/26/2024 09:31:47 PM: INFO: TestAccountLogin: <class 'int'>
+05/26/2024 09:31:52 PM: INFO: TestAccountRegistration: Starting account registration
+05/26/2024 09:32:47 PM: ERROR: TestAccountRegistration: Register failed.
+05/26/2024 09:32:59 PM: INFO: TestAccountLogin: Starting account login
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <frame at 0x000001C27B93C860, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 13, code TestAccountLogin>
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <class 'frame'>
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <class 'str'>
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: 13
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <class 'int'>
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: TestAccountLogin
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <class 'str'>
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <class 'list'>
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: 0
+06/01/2024 10:33:29 AM: INFO: TestAccountLogin: <class 'int'>
+06/01/2024 10:35:03 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <frame at 0x00000212157482C0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 13, code TestAccountLogin>
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: 13
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:10:48 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:11:19 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:12:24 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <frame at 0x000001B27AE8CA40, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 13, code TestAccountLogin>
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: 13
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:23:39 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:23:59 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:24:47 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <frame at 0x000001F5E08482C0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 13, code TestAccountLogin>
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: 13
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:25:13 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:25:16 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <frame at 0x0000025173AD82C0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: 14
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:28:39 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:29:30 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <frame at 0x0000017DEF0182C0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: 14
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:32:36 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:32:50 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:33:27 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <frame at 0x00000251114A82C0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: 14
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:36:05 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:36:07 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:36:52 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <frame at 0x0000021A6BEF82C0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: 14
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:42:40 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:43:18 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:43:56 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:44:01 AM: INFO: TestAccountLogin: Logged out.
+06/02/2024 11:44:11 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:44:24 AM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 11:44:24 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <frame at 0x0000020C42F18B80, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: 14
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:48:42 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:48:50 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:49:20 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:49:20 AM: INFO: TestAccountLogin: Logged out.
+06/02/2024 11:49:30 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:49:43 AM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 11:49:43 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <frame at 0x00000250395B4400, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: 14
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: 0
+06/02/2024 11:54:05 AM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 11:54:12 AM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 11:54:31 AM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 11:54:37 AM: INFO: TestAccountLogin: Login successful.
+06/02/2024 11:54:37 AM: INFO: TestAccountLogin: Logged out.
+06/02/2024 11:54:47 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:54:47 AM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 11:54:59 AM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 11:54:59 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:55:00 AM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 11:55:10 AM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 11:55:10 AM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 11:55:11 AM: INFO: TestAccountLogin: Email: ab@gmail.com Password: test
+06/02/2024 01:44:26 PM: INFO: TestAccountLogin: <frame at 0x000001E7203C4360, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: 14
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: 0
+06/02/2024 01:44:27 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 01:44:57 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 01:46:30 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 01:46:36 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 01:46:36 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 01:46:46 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:46:46 PM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 01:46:58 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 01:46:58 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:46:58 PM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <frame at 0x000002B80AD04360, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: 14
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: 0
+06/02/2024 01:48:07 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 01:48:12 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 01:48:46 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 01:48:51 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 01:48:51 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 01:49:01 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:49:02 PM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 01:49:16 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 01:49:16 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:49:16 PM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 01:49:29 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 01:49:29 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:49:30 PM: INFO: TestAccountLogin: Email: ab@gmail.com Password: test
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <frame at 0x000002B1A2298540, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: 14
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: 0
+06/02/2024 01:52:06 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 01:52:15 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 01:52:28 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 01:52:33 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 01:52:33 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 01:52:43 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:52:43 PM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 01:52:55 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 01:52:55 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 01:52:56 PM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <frame at 0x000002B5CA37C900, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:02:33 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:02:57 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 02:03:28 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 02:04:03 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 02:04:03 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 02:04:13 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:04:15 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:04:15 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:04:15 PM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 02:04:27 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 02:04:27 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:04:27 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/customer/account/login/
+06/02/2024 02:04:27 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:04:27 PM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <frame at 0x000001D7A9054360, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:32:22 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:32:34 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 02:33:12 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 02:33:21 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 02:33:21 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 02:33:21 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:33:21 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/customer/account/
+06/02/2024 02:33:21 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <frame at 0x000002B22E6A4360, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:34:27 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:34:29 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 02:34:38 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 02:34:43 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 02:34:44 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 02:34:44 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:34:49 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:34:49 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <frame at 0x00000200EB524360, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:37:17 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:37:19 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 02:37:35 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 02:37:39 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 02:37:40 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 02:37:40 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:37:45 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:37:45 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <frame at 0x000001ED2D1D4360, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:38:53 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:38:56 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 02:39:24 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 02:39:32 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 02:39:33 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 02:39:37 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:39:42 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:39:42 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:39:42 PM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 02:39:54 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 02:39:54 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:39:59 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:39:59 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:39:59 PM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 02:40:13 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 02:40:13 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:40:18 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:40:18 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:40:18 PM: INFO: TestAccountLogin: Email: ab@gmail.com Password: test
+06/02/2024 02:40:30 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 02:40:30 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 02:40:35 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 02:40:35 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <frame at 0x000001EF22568860, file 'E:\\Tealium\\testCases\\test_001_AccountRegister.py', line 15, code TestAccountRegistration>
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <class 'frame'>
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: E:\Tealium\testCases\test_001_AccountRegister.py
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <class 'str'>
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: 15
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <class 'int'>
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: TestAccountRegistration
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <class 'str'>
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <class 'list'>
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: 0
+06/02/2024 02:56:23 PM: INFO: TestAccountRegistration: <class 'int'>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <frame at 0x000001EF2256A7A0, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:56:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <frame at 0x000001EF2256A7A0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <frame at 0x000001EF2256A7A0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:56:26 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:56:57 PM: INFO: TestAccountRegistration: Starting account registration
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <frame at 0x000002A7786887C0, file 'E:\\Tealium\\testCases\\test_001_AccountRegister.py', line 15, code TestAccountRegistration>
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <class 'frame'>
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: E:\Tealium\testCases\test_001_AccountRegister.py
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: 15
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: TestAccountRegistration
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <class 'list'>
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: 0
+06/02/2024 02:59:23 PM: INFO: TestAccountRegistration: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <frame at 0x000002A7786887C0, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <frame at 0x000002A77868ADE0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <frame at 0x000002A77868ADE0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: 14
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: 0
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:59:23 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 02:59:25 PM: INFO: TestAccountRegistration: Starting account registration
+06/02/2024 02:59:49 PM: ERROR: TestAccountRegistration: Register failed.
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <frame at 0x0000026FA76687C0, file 'E:\\Tealium\\testCases\\test_001_AccountRegister.py', line 15, code TestAccountRegistration>
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <class 'frame'>
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: E:\Tealium\testCases\test_001_AccountRegister.py
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <class 'str'>
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: 15
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <class 'int'>
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: TestAccountRegistration
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <class 'str'>
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: ['    logger = LogGen.loggen()\n']
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <class 'list'>
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: 0
+06/02/2024 03:00:27 PM: INFO: TestAccountRegistration: <class 'int'>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <frame at 0x0000026FA76687C0, file 'E:\\Tealium\\testCases\\test_002_AccountLogin.py', line 14, code TestAccountLogin>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_002_AccountLogin.py
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: 14
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: 0
+06/02/2024 03:00:27 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <frame at 0x0000026FA766ADE0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <frame at 0x0000026FA766ADE0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: 14
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: 14
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: 0
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: 0
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:00:28 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:00:29 PM: INFO: TestAccountLogin: Starting account login
+06/02/2024 03:00:29 PM: INFO: TestAccountLogin: Starting account login
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <frame at 0x0000026E7A7544A0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: 14
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: 0
+06/02/2024 03:03:29 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:03:40 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <frame at 0x000002DE694244A0, file 'E:\\Tealium\\testCases\\test_003_Login_DDT.py', line 14, code TestAccountLogin>
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <class 'frame'>
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: E:\Tealium\testCases\test_003_Login_DDT.py
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: 14
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: TestAccountLogin
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <class 'str'>
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: ['    logger = LogGen.loggen()\n']
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <class 'list'>
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: 0
+06/02/2024 03:04:36 PM: INFO: TestAccountLogin: <class 'int'>
+06/02/2024 03:04:42 PM: INFO: TestAccountLogin: Starting test_003_Login_DDT
+06/02/2024 03:04:52 PM: INFO: TestAccountLogin: Email: aritra.biswas3@gmail.com Password: r!C45av3zQYgF
+06/02/2024 03:05:01 PM: INFO: TestAccountLogin: Login successful.
+06/02/2024 03:05:01 PM: INFO: TestAccountLogin: Logged out.
+06/02/2024 03:05:05 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 03:05:10 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 03:05:10 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 03:05:11 PM: INFO: TestAccountLogin: Email: aritra@gmail.com Password: test
+06/02/2024 03:05:23 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 03:05:24 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 03:05:29 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 03:05:29 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 03:05:29 PM: INFO: TestAccountLogin: Email: biswas@gmail.com Password: test123
+06/02/2024 03:05:41 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 03:05:41 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 03:05:46 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 03:05:46 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
+06/02/2024 03:05:47 PM: INFO: TestAccountLogin: Email: ab@gmail.com Password: test
+06/02/2024 03:05:59 PM: INFO: TestAccountLogin: Login Failed.
+06/02/2024 03:05:59 PM: INFO: TestAccountLogin: Directed to home page.
+06/02/2024 03:06:04 PM: INFO: TestAccountLogin: https://ecommerce.tealiumdemo.com/
+06/02/2024 03:06:04 PM: INFO: TestAccountLogin: End of test_003_Login_DDT
