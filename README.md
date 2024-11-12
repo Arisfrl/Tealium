@@ -1,4 +1,3 @@
-To create a well-structured `README.md` for your **Tealium** project, here’s a template you can customize:
 
 ---
 
